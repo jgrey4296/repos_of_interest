@@ -145,3 +145,153 @@
 [submodule "games/falloutshelter-wiki"]
 	path = games/falloutshelter-wiki
 	url = git@github.com:Sharlikran/fsdoc.git
+[submodule "epub/sigil"]
+	path = epub/sigil
+	url = git@github.com:Sigil-Ebook/sigil-user-guide.git
+[submodule "ai/soar-agents"]
+	path = ai/soar-agents
+	url = git@github.com:SoarGroup/Agents.git
+[submodule "ai/DPDDL"]
+	path = ai/DPDDL
+	url = git@github.com:SoarGroup/Domains-Planning-Domain-Definition-Language.git
+[submodule "ai/soar"]
+	path = ai/soar
+	url = git@github.com:SoarGroup/Soar.git
+[submodule "games/telltale-docs"]
+	path = games/telltale-docs
+	url = git@github.com:Telltale-Modding-Group/ttarch-docs.git
+[submodule "games/witcherscript"]
+	path = games/witcherscript
+	url = git@github.com:Traderain/WitcherScript.git
+[submodule "data/unity-terms-of-service"]
+	path = data/unity-terms-of-service
+	url = git@github.com:Unity-Technologies/TermsOfService.git
+[submodule "games/halflife"]
+	path = games/halflife
+	url = git@github.com:ValveSoftware/halflife.git
+[submodule "games/source-sdk-2013"]
+	path = games/source-sdk-2013
+	url = git@github.com:ValveSoftware/source-sdk-2013.git
+[submodule "lisp/wilfred-dot-emacs"]
+	path = lisp/wilfred-dot-emacs
+	url = git@github.com:Wilfred/.emacs.d.git
+[submodule "data/photoreference_for_3d_artists"]
+	path = data/photoreference_for_3d_artists
+	url = git@github.com:YeHang-GitHub/PhotoReference_For_3DArtist.git
+[submodule "ai/z3"]
+	path = ai/z3
+	url = git@github.com:Z3Prover/z3.git
+[submodule "fonts/source-code-pro"]
+	path = fonts/source-code-pro
+	url = git@github.com:adobe-fonts/source-code-pro.git
+[submodule "websites/500lines"]
+	path = websites/500lines
+	url = git@github.com:aosabook/500lines.git
+[submodule "data/remembergaza"]
+	path = data/remembergaza
+	url = git@github.com:ariefrahmansyah/remembergaza.git
+[submodule "erlang/asdf"]
+	path = erlang/asdf
+	url = git@github.com:asdf-vm/asdf.git
+[submodule "data/TheCounted"]
+	path = data/TheCounted
+	url = git@github.com:awesomealex1/TheCounted.git
+[submodule "ai/Cplus2ASP"]
+	path = ai/Cplus2ASP
+	url = git@github.com:azreasoners/Cplus2ASP.git
+[submodule "ai/F2LP"]
+	path = ai/F2LP
+	url = git@github.com:babb517/F2LP.git
+[submodule "ai/arac"]
+	path = ai/arac
+	url = git@github.com:bayerj/arac.git
+[submodule "lisp/prelude"]
+	path = lisp/prelude
+	url = git@github.com:bbatsov/prelude.git
+[submodule "godot/Gut"]
+	path = godot/Gut
+	url = git@github.com:bitwes/Gut.git
+[submodule "python/blender"]
+	path = python/blender
+	url = git@github.com:blender/blender.git
+[submodule "python/pycycle"]
+	path = python/pycycle
+	url = git@github.com:bndr/pycycle.git
+[submodule "ai/bot-lang"]
+	path = ai/bot-lang
+	url = git@github.com:bot-ai/bot-lang.git
+[submodule "lisp/vundo"]
+	path = lisp/vundo
+	url = git@github.com:casouri/vundo.git
+[submodule "python/celery"]
+	path = python/celery
+	url = git@github.com:celery/celery.git
+[submodule "data/swda"]
+	path = data/swda
+	url = git@github.com:cgpotts/swda
+[submodule "ai/ceptre"]
+	path = ai/ceptre
+	url = git@github.com:chrisamaphone/interactive-lp.git
+[submodule "shaders/fragment-shaders"]
+	path = shaders/fragment-shaders
+	url = git@github.com:chriscamplin/fragment-shaders.git
+[submodule "bibliography/journals"]
+	path = bibliography/journals
+	url = git@github.com:citation-style-language/journals.git
+[submodule "bibliography/schema"]
+	path = bibliography/schema
+	url = git@github.com:citation-style-language/schema.git
+[submodule "python/stackprinter"]
+	path = python/stackprinter
+	url = git@github.com:cknd/stackprinter.git
+[submodule "javascript/cockatiel"]
+	path = javascript/cockatiel
+	url = git@github.com:connor4312/cockatiel.git
+[submodule "python/construct"]
+	path = python/construct
+	url = git@github.com:construct/construct.git
+[submodule "python/PRML"]
+	path = python/PRML
+	url = git@github.com:ctgk/PRML.git
+[submodule "data/verbnet"]
+	path = data/verbnet
+	url = git@github.com:cu-clear/verbnet
+[submodule "python/cython"]
+	path = python/cython
+	url = git@github.com:cython/cython.git
+[submodule "awesomes/awesome-sql"]
+	path = awesomes/awesome-sql
+	url = git@github.com:danhuss/awesome-sql.git
+[submodule "lua/gmod_luasocket"]
+	path = lua/gmod_luasocket
+	url = git@github.com:danielga/gmod_luasocket.git
+[submodule "data/corpora"]
+	path = data/corpora
+	url = git@github.com:dariusk/corpora.git
+[submodule "data/los-angeles-police-killings-data"]
+	path = data/los-angeles-police-killings-data
+	url = git@github.com:datadesk/los-angeles-police-killings-data.git
+[submodule "awesomes/awesome-game-ai"]
+	path = awesomes/awesome-game-ai
+	url = git@github.com:datamllab/awesome-game-ai.git
+[submodule "nlp/word2vec"]
+	path = nlp/word2vec
+	url = git@github.com:dav/word2vec.git
+[submodule "python/jedi"]
+	path = python/jedi
+	url = git@github.com:davidhalter/jedi.git
+[submodule "data/US-Police-Killings-Database"]
+	path = data/US-Police-Killings-Database
+	url = git@github.com:deadly-force/US-Police-Killings-Database.git
+[submodule "lisp/doomemacs"]
+	path = lisp/doomemacs
+	url = git@github.com:doomemacs/doomemacs.git
+[submodule "python/midiutil"]
+	path = python/midiutil
+	url = git@github.com:duggan/midiutil.git
+[submodule "database/mysql2sqlite"]
+	path = database/mysql2sqlite
+	url = git@github.com:dumblob/mysql2sqlite.git
+[submodule "lisp/pinentry-emacs"]
+	path = lisp/pinentry-emacs
+	url = git@github.com:ecraven/pinentry-emacs.git
