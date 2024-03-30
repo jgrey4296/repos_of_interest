@@ -295,3 +295,153 @@
 [submodule "lisp/pinentry-emacs"]
 	path = lisp/pinentry-emacs
 	url = git@github.com:ecraven/pinentry-emacs.git
+[submodule "lisp/evil"]
+	path = lisp/evil
+	url = git@github.com:emacs-evil/evil
+[submodule "lisp/lsp-mode"]
+	path = lisp/lsp-mode
+	url = git@github.com:emacs-lsp/lsp-mode.git
+[submodule "awesomes/awesome-graphics"]
+	path = awesomes/awesome-graphics
+	url = git@github.com:ericjang/awesome-graphics.git
+[submodule "awesomes/awesome-opengl"]
+	path = awesomes/awesome-opengl
+	url = git@github.com:eug/awesome-opengl.git
+[submodule "misc/exiftool"]
+	path = misc/exiftool
+	url = git@github.com:exiftool/exiftool.git
+[submodule "python/python-benedict"]
+	path = python/python-benedict
+	url = git@github.com:fabiocaccamo/python-benedict.git
+[submodule "misc/fortls"]
+	path = misc/fortls
+	url = git@github.com:fortran-lang/fortls.git
+[submodule "godot/yasnippet-godot-gdscript"]
+	path = godot/yasnippet-godot-gdscript
+	url = git@github.com:francogarcia/yasnippet-godot-gdscript.git
+[submodule "ai/inform"]
+	path = ai/inform
+	url = git@github.com:ganelson/inform.git
+[submodule "ai/RPG"]
+	path = ai/RPG
+	url = git@github.com:garydriley/RPG.git
+[submodule "python/iesh"]
+	path = python/iesh
+	url = git@github.com:gemrb/iesh.git
+[submodule "python/pelican"]
+	path = python/pelican
+	url = git@github.com:getpelican/pelican.git
+[submodule "games/Sims3"]
+	path = games/Sims3
+	url = git@github.com:gibbed/Gibbed.Sims3.git
+[submodule "games/Sims4"]
+	path = games/Sims4
+	url = git@github.com:gibbed/Gibbed.Sims4.git
+[submodule "godot/godot-next"]
+	path = godot/godot-next
+	url = git@github.com:godot-extended-libraries/godot-next.git
+[submodule "godot/gdnative"]
+	path = godot/gdnative
+	url = git@github.com:godot-rust/gdnative.git
+[submodule "godot/godot-rust"]
+	path = godot/godot-rust
+	url = git@github.com:godot-rust/godot-rust.git
+[submodule "godot/awesome-godot"]
+	path = godot/awesome-godot
+	url = git@github.com:godotengine/awesome-godot.git
+[submodule "godot/godot-headers"]
+	path = godot/godot-headers
+	url = git@github.com:godotengine/godot-headers.git
+[submodule "godot/godot-proposals"]
+	path = godot/godot-proposals
+	url = git@github.com:godotengine/godot-proposals.git
+[submodule "python/grappa"]
+	path = python/grappa
+	url = git@github.com:grappa-py/grappa.git
+[submodule "lisp/wordnut"]
+	path = lisp/wordnut
+	url = git@github.com:gromnitsky/wordnut.git
+[submodule "awesomes/awesome-ai"]
+	path = awesomes/awesome-ai
+	url = git@github.com:hades217/awesome-ai.git
+[submodule "games/bureaucracy"]
+	path = games/bureaucracy
+	url = git@github.com:historicalsource/bureaucracy.git
+[submodule "games/hitchhikersguide"]
+	path = games/hitchhikersguide
+	url = git@github.com:historicalsource/hitchhikersguide.git
+[submodule "games/DAOtools"]
+	path = games/DAOtools
+	url = git@github.com:humhue/DAOtools.git
+[submodule "websites/notation"]
+	path = websites/notation
+	url = git@github.com:hypotext/notation.git
+[submodule "lisp/auxin"]
+	path = lisp/auxin
+	url = git@github.com:inconvergent/auxin.git
+[submodule "lisp/cl-veq"]
+	path = lisp/cl-veq
+	url = git@github.com:inconvergent/cl-veq.git
+[submodule "ai/instal-stable"]
+	path = ai/instal-stable
+	url = git@github.com:instsuite/instal-stable.git
+[submodule "ai/jacamo"]
+	path = ai/jacamo
+	url = git@github.com:jacamo-lang/jacamo.git
+[submodule "python/inflect"]
+	path = python/inflect
+	url = git@github.com:jaraco/inflect.git
+[submodule "ai/atom-mas2j"]
+	path = ai/atom-mas2j
+	url = git@github.com:jason-lang/atom-mas2j.git
+[submodule "ai/jason"]
+	path = ai/jason
+	url = git@github.com:jason-lang/jason.git
+[submodule "python/missingbuiltins"]
+	path = python/missingbuiltins
+	url = git@github.com:jbn/missingbuiltins.git
+[submodule "data/pipeline-examples"]
+	path = data/pipeline-examples
+	url = git@github.com:jenkinsci/pipeline-examples
+[submodule "websites/learn-y-in-x-minutes"]
+	path = websites/learn-y-in-x-minutes
+	url = git@github.com:jeoygin/learn-y-in-x-minutes.git
+[submodule "python/liquid"]
+	path = python/liquid
+	url = git@github.com:jg-rp/liquid.git
+[submodule "games/ambermoon"]
+	path = games/ambermoon
+	url = git@github.com:jhorneman/ambermoon.git
+[submodule "games/amberstar"]
+	path = games/amberstar
+	url = git@github.com:jhorneman/amberstar.git
+[submodule "lisp/emacs-modules"]
+	path = lisp/emacs-modules
+	url = git@github.com:jkitchin/emacs-modules
+[submodule "python/org-ref"]
+	path = python/org-ref
+	url = git@github.com:jkitchin/org-ref.git
+[submodule "python/pomegranate"]
+	path = python/pomegranate
+	url = git@github.com:jmschrei/pomegranate
+[submodule "awesomes/awesome-falsehood"]
+	path = awesomes/awesome-falsehood
+	url = git@github.com:kdeldycke/awesome-falsehood.git
+[submodule "python/schema"]
+	path = python/schema
+	url = git@github.com:keleshev/schema
+[submodule "godot/godot3_procgen_demos"]
+	path = godot/godot3_procgen_demos
+	url = git@github.com:kidscancode/godot3_procgen_demos.git
+[submodule "java/drools"]
+	path = java/drools
+	url = git@github.com:kiegroup/drools.git
+[submodule "javascript/twinejs"]
+	path = javascript/twinejs
+	url = git@github.com:klembot/twinejs.git
+[submodule "python/calibre"]
+	path = python/calibre
+	url = git@github.com:kovidgoyal/calibre.git
+[submodule "python/gtk-samples"]
+	path = python/gtk-samples
+	url = git@github.com:liberforce/gtk-samples.git
