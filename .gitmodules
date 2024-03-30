@@ -1,0 +1,147 @@
+[submodule "ai/covid-sim"]
+	path = ai/covid-sim
+	url = git@github.com:lvanhee/COVID-sim.git
+[submodule "games/40k-roll-simulator"]
+	path = games/40k-roll-simulator
+	url = git@github.com:Grzegorz23/40K-roll-simulator.git
+[submodule "games/libtcod"]
+	path = games/libtcod
+	url = git@github.com:libtcod/libtcod.git
+[submodule "lisp/rules-editing-mode"]
+	path = lisp/rules-editing-mode
+	url = git@github.com:pdorrell/rules-editing-mode.git
+[submodule "python/doit"]
+	path = python/doit
+	url = git@github.com:pydoit/doit.git
+[submodule "python/git-autohooks"]
+	path = python/git-autohooks
+	url = git@github.com:greenbone/autohooks.git
+[submodule "python/pycairo"]
+	path = python/pycairo
+	url = git@github.com:pygobject/pycairo.git
+[submodule "python/pyparsing"]
+	path = python/pyparsing
+	url = git@github.com:pyparsing/pyparsing.git
+[submodule "python/sdxpy"]
+	path = python/sdxpy
+	url = git@github.com:gvwilson/sdxpy.git
+[submodule "python/sorobn"]
+	path = python/sorobn
+	url = git@github.com:MaxHalford/sorobn
+[submodule "misc/milewski-ctfp-pdf"]
+	path = misc/milewski-ctfp-pdf
+	url = git@github.com:hmemcpy/milewski-ctfp-pdf.git
+[submodule "misc/collective-knowledge"]
+	path = misc/collective-knowledge
+	url = git@github.com:mlcommons/ck.git
+[submodule "ai/classical-domains"]
+	path = ai/classical-domains
+	url = git@github.com:AI-Planning/classical-domains.git
+[submodule "godot/WAT"]
+	path = godot/WAT
+	url = git@github.com:AlexDarigan/WAT
+[submodule "ai/the-witness-solver"]
+	path = ai/the-witness-solver
+	url = git@github.com:Bickio/the-witness-solver.git
+[submodule "ai/cartago"]
+	path = ai/cartago
+	url = git@github.com:CArtAgO-lang/cartago.git
+[submodule "erlang/curriculum"]
+	path = erlang/curriculum
+	url = git@github.com:DockYard-Academy/curriculum.git
+[submodule "websites/unmaintainable-code"]
+	path = websites/unmaintainable-code
+	url = git@github.com:Droogans/unmaintainable-code.git
+[submodule "rust/rust-algorithms"]
+	path = rust/rust-algorithms
+	url = git@github.com:EbTech/rust-algorithms.git
+[submodule "awesomes/awesome-artificial-intelligence-guidelines"]
+	path = awesomes/awesome-artificial-intelligence-guidelines
+	url = git@github.com:EthicalML/awesome-artificial-intelligence-guidelines.git
+[submodule "godot/godot-procedural-generation"]
+	path = godot/godot-procedural-generation
+	url = git@github.com:GDQuest/godot-procedural-generation.git
+[submodule "godot/godot-shaders"]
+	path = godot/godot-shaders
+	url = git@github.com:GDQuest/godot-shaders.git
+[submodule "godot/godot-steering-ai-framework"]
+	path = godot/godot-steering-ai-framework
+	url = git@github.com:GDQuest/godot-steering-ai-framework.git
+[submodule "games/HITMAN"]
+	path = games/HITMAN
+	url = git@github.com:HHCHunter/HITMAN.git
+[submodule "csharp/Computational-geometry"]
+	path = csharp/Computational-geometry
+	url = git@github.com:Habrador/Computational-geometry.git
+[submodule "godot/super-godot-galaxy"]
+	path = godot/super-godot-galaxy
+	url = git@github.com:Hugo-Dz/super-godot-galaxy.git
+[submodule "epub/epub3-samples"]
+	path = epub/epub3-samples
+	url = git@github.com:IDPF/epub3-samples.git
+[submodule "awesomes/awesome-android"]
+	path = awesomes/awesome-android
+	url = git@github.com:JStumpp/awesome-android.git
+[submodule "awesomes/awesome-chatbots"]
+	path = awesomes/awesome-chatbots
+	url = git@github.com:JStumpp/awesome-chatbots.git
+[submodule "awesomes/awesome-kotlin"]
+	path = awesomes/awesome-kotlin
+	url = git@github.com:KotlinBy/awesome-kotlin.git
+[submodule "data/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words"]
+	path = data/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+	url = git@github.com:LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words.git
+[submodule "websites/learn-prolog"]
+	path = websites/learn-prolog
+	url = git@github.com:LearnPrologNow/lpn.git
+[submodule "games/LegendaryExplorer"]
+	path = games/LegendaryExplorer
+	url = git@github.com:ME3Tweaks/LegendaryExplorer.git
+[submodule "csharp/woo-besluit-broncode-digid-app"]
+	path = csharp/woo-besluit-broncode-digid-app
+	url = git@github.com:MinBZK/woo-besluit-broncode-digid-app.git
+[submodule "python/ALIAS"]
+	path = python/ALIAS
+	url = git@github.com:Open-Argumentation/ALIAS.git
+[submodule "python/SADFace"]
+	path = python/SADFace
+	url = git@github.com:Open-Argumentation/SADFace.git
+[submodule "data/GenAI-snapshots"]
+	path = data/GenAI-snapshots
+	url = git@github.com:OpenTermsArchive/GenAI-snapshots.git
+[submodule "data/GenAI-versions"]
+	path = data/GenAI-versions
+	url = git@github.com:OpenTermsArchive/GenAI-versions.git
+[submodule "data/dating-snapshots"]
+	path = data/dating-snapshots
+	url = git@github.com:OpenTermsArchive/dating-snapshots.git
+[submodule "data/pga-versions"]
+	path = data/pga-versions
+	url = git@github.com:OpenTermsArchive/pga-versions.git
+[submodule "data/terms-types"]
+	path = data/terms-types
+	url = git@github.com:OpenTermsArchive/terms-types.git
+[submodule "godot/Godot-Game-Engine-Projects"]
+	path = godot/Godot-Game-Engine-Projects
+	url = git@github.com:PacktPublishing/Godot-Game-Engine-Projects.git
+[submodule "python/astroid"]
+	path = python/astroid
+	url = git@github.com:PyCQA/astroid.git
+[submodule "python/pylint"]
+	path = python/pylint
+	url = git@github.com:PyCQA/pylint.git
+[submodule "erlang/Pyrlang"]
+	path = erlang/Pyrlang
+	url = git@github.com:Pyrlang/Pyrlang.git
+[submodule "erlang/Term"]
+	path = erlang/Term
+	url = git@github.com:Pyrlang/Term.git
+[submodule "python/scons"]
+	path = python/scons
+	url = git@github.com:SCons/scons.git
+[submodule "ai/swipl"]
+	path = ai/swipl
+	url = git@github.com:SWI-Prolog/swipl.git
+[submodule "games/falloutshelter-wiki"]
+	path = games/falloutshelter-wiki
+	url = git@github.com:Sharlikran/fsdoc.git
