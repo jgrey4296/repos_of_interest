@@ -445,3 +445,153 @@
 [submodule "python/gtk-samples"]
 	path = python/gtk-samples
 	url = git@github.com:liberforce/gtk-samples.git
+[submodule "lisp/ob-prolog"]
+	path = lisp/ob-prolog
+	url = git@github.com:ljos/ob-prolog.git
+[submodule "csharp/ReGoap"]
+	path = csharp/ReGoap
+	url = git@github.com:luxkun/ReGoap.git
+[submodule "ai/COVID-sim"]
+	path = ai/COVID-sim
+	url = git@github.com:lvanhee/COVID-sim.git
+[submodule "lisp/transient"]
+	path = lisp/transient
+	url = git@github.com:magit/transient.git
+[submodule "python/marshmallow"]
+	path = python/marshmallow
+	url = git@github.com:marshmallow-code/marshmallow.git
+[submodule "java/mastodon-android"]
+	path = java/mastodon-android
+	url = git@github.com:mastodon/mastodon-android.git
+[submodule "python/matplotlib"]
+	path = python/matplotlib
+	url = git@github.com:matplotlib/matplotlib.git
+[submodule "python/bumpver"]
+	path = python/bumpver
+	url = git@github.com:mbarkhau/bumpver.git
+[submodule "awesomes/awesome-game-dev"]
+	path = awesomes/awesome-game-dev
+	url = git@github.com:mbrukman/awesome-game-dev.git
+[submodule "python/pydispatcher"]
+	path = python/pydispatcher
+	url = git@github.com:mcfletch/pydispatcher
+[submodule "javascript/webextensions-examples"]
+	path = javascript/webextensions-examples
+	url = git@github.com:mdn/webextensions-examples.git
+[submodule "python/pronouncingpy"]
+	path = python/pronouncingpy
+	url = git@github.com:mewo2/pronouncingpy
+[submodule "data/lsprotocol"]
+	path = data/lsprotocol
+	url = git@github.com:microsoft/lsprotocol.git
+[submodule "ai/moise"]
+	path = ai/moise
+	url = git@github.com:moise-lang/moise.git
+[submodule "ai/npl"]
+	path = ai/npl
+	url = git@github.com:moise-lang/npl.git
+[submodule "python/hasse"]
+	path = python/hasse
+	url = git@github.com:mvcisback/hasse.git
+[submodule "python/seaborn"]
+	path = python/seaborn
+	url = git@github.com:mwaskom/seaborn.git
+[submodule "python/MarkovJunior"]
+	path = python/MarkovJunior
+	url = git@github.com:mxgmn/MarkovJunior.git
+[submodule "godot/godot_dialogue_manager"]
+	path = godot/godot_dialogue_manager
+	url = git@github.com:nathanhoad/godot_dialogue_manager.git
+[submodule "python/networkx"]
+	path = python/networkx
+	url = git@github.com:networkx/networkx.git
+[submodule "lisp/3-lisp"]
+	path = lisp/3-lisp
+	url = git@github.com:nikitadanilov/3-lisp
+[submodule "python/llvmlite"]
+	path = python/llvmlite
+	url = git@github.com:numba/llvmlite.git
+[submodule "python/numpy"]
+	path = python/numpy
+	url = git@github.com:numpy/numpy.git
+[submodule "rust/nushell"]
+	path = rust/nushell
+	url = git@github.com:nushell/nushell.git
+[submodule "python/pygls"]
+	path = python/pygls
+	url = git@github.com:openlawlibrary/pygls.git
+[submodule "awesomes/awesome-artificial-intelligence"]
+	path = awesomes/awesome-artificial-intelligence
+	url = git@github.com:owainlewis/awesome-artificial-intelligence.git
+[submodule "python/jedi-language-server"]
+	path = python/jedi-language-server
+	url = git@github.com:pappasam/jedi-language-server.git
+[submodule "awesomes/awesome-pipeline"]
+	path = awesomes/awesome-pipeline
+	url = git@github.com:pditommaso/awesome-pipeline.git
+[submodule "python/ptyprocess"]
+	path = python/ptyprocess
+	url = git@github.com:pexpect/ptyprocess.git
+[submodule "games/mwde"]
+	path = games/mwde
+	url = git@github.com:pineapplemachine/mwde.git
+[submodule "python/platformdirs"]
+	path = python/platformdirs
+	url = git@github.com:platformdirs/platformdirs.git
+[submodule "lisp/chemacs2"]
+	path = lisp/chemacs2
+	url = git@github.com:plexus/chemacs2.git
+[submodule "python/pdfrw"]
+	path = python/pdfrw
+	url = git@github.com:pmaupin/pdfrw.git
+[submodule "python/pony"]
+	path = python/pony
+	url = git@github.com:ponyorm/pony.git
+[submodule "lisp/transient-showcase"]
+	path = lisp/transient-showcase
+	url = git@github.com:positron-solutions/transient-showcase.git
+[submodule "ai/clingo"]
+	path = ai/clingo
+	url = git@github.com:potassco/clingo.git
+[submodule "misc/pre-commit-hooks"]
+	path = misc/pre-commit-hooks
+	url = git@github.com:pre-commit/pre-commit-hooks.git
+[submodule "misc/pre-commit"]
+	path = misc/pre-commit
+	url = git@github.com:pre-commit/pre-commit.git
+[submodule "python/doit-graph"]
+	path = python/doit-graph
+	url = git@github.com:pydoit/doit-graph.git
+[submodule "python/pygments"]
+	path = python/pygments
+	url = git@github.com:pygments/pygments
+[submodule "python/pluggy"]
+	path = python/pluggy
+	url = git@github.com:pytest-dev/pluggy.git
+[submodule "python/python-lsp-server"]
+	path = python/python-lsp-server
+	url = git@github.com:python-lsp/python-lsp-server.git
+[submodule "python/poetry"]
+	path = python/poetry
+	url = git@github.com:python-poetry/poetry.git
+[submodule "python/twitter-tools"]
+	path = python/twitter-tools
+	url = git@github.com:python-twitter-tools/twitter.git
+[submodule "python/mypy"]
+	path = python/mypy
+	url = git@github.com:python/mypy.git
+[submodule "python/peps"]
+	path = python/peps
+	url = git@github.com:python/peps.git
+[submodule "data/python-bylaws"]
+	path = data/python-bylaws
+	url = git@github.com:python/psf-bylaws.git
+[submodule "pytho/typeshed"]
+	path = pytho/typeshed
+	url = git@github.com:python/typeshed.git
+[submodule "websites/quality-diversity"]
+	path = websites/quality-diversity
+	url = git@github.com:quality-diversity/quality-diversity.github.io.git
+[submodule "awesomes/awesome-dotnet"]
+	path = awesomes/awesome-dotnet
+	url = git@github.com:quozd/awesome-dotnet.git
