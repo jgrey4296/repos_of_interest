@@ -586,9 +586,6 @@
 [submodule "data/python-bylaws"]
 	path = data/python-bylaws
 	url = git@github.com:python/psf-bylaws.git
-[submodule "pytho/typeshed"]
-	path = pytho/typeshed
-	url = git@github.com:python/typeshed.git
 [submodule "websites/quality-diversity"]
 	path = websites/quality-diversity
 	url = git@github.com:quality-diversity/quality-diversity.github.io.git
@@ -751,9 +748,6 @@
 [submodule "data/data-police-shootings"]
 	path = data/data-police-shootings
 	url = git@github.com:washingtonpost/data-police-shootings.git
-[submodule "emacs/treebot"]
-	path = emacs/treebot
-	url = git@github.com:william42/treebot.git
 [submodule "java/xsd-gen"]
 	path = java/xsd-gen
 	url = git@github.com:wiztools/xsd-gen.git
@@ -790,3 +784,9 @@
 [submodule "ai/encounter-editor"]
 	path = ai/encounter-editor
 	url = git@github.com:storytron/encounter-editor-3.11.git
+[submodule "python/typeshed"]
+	path = python/typeshed
+	url = git@github.com:python/typeshed.git
+[submodule "lisp/treebot"]
+	path = lisp/treebot
+	url = git@github.com:william42/treebot.git
