@@ -595,3 +595,198 @@
 [submodule "awesomes/awesome-dotnet"]
 	path = awesomes/awesome-dotnet
 	url = git@github.com:quozd/awesome-dotnet.git
+[submodule "lisp/radian"]
+	path = lisp/radian
+	url = git@github.com:radian-software/radian.git
+[submodule "lisp/straight"]
+	path = lisp/straight
+	url = git@github.com:radian-software/straight.el.git
+[submodule "python/renpy"]
+	path = python/renpy
+	url = git@github.com:renpy/renpy.git
+[submodule "ai/microtalespin"]
+	path = ai/microtalespin
+	url = git@github.com:rntz/microtalespin.git
+[submodule "ai/relsat"]
+	path = ai/relsat
+	url = git@github.com:roberto-bayardo/relsat.git
+[submodule "awesomes/awesome-math"]
+	path = awesomes/awesome-math
+	url = git@github.com:rossant/awesome-math.git
+[submodule "awesomes/awesome-scientific-python"]
+	path = awesomes/awesome-scientific-python
+	url = git@github.com:rossant/awesome-scientific-python.git
+[submodule "rust/rls"]
+	path = rust/rls
+	url = git@github.com:rust-lang/rls.git
+[submodule "rust/analyzer"]
+	path = rust/analyzer
+	url = git@github.com:rust-lang/rust-analyzer.git
+[submodule "awesomes/awesome-rust"]
+	path = awesomes/awesome-rust
+	url = git@github.com:rust-unofficial/awesome-rust.git
+[submodule "rust/patterns"]
+	path = rust/patterns
+	url = git@github.com:rust-unofficial/patterns.git
+[submodule "rust/cargo-make"]
+	path = rust/cargo-make
+	url = git@github.com:sagiegurari/cargo-make.git
+[submodule "python/scikit-learn"]
+	path = python/scikit-learn
+	url = git@github.com:scikit-learn/scikit-learn.git
+[submodule "python/scipy"]
+	path = python/scipy
+	url = git@github.com:scipy/scipy.git
+[submodule "python/bibtexparser"]
+	path = python/bibtexparser
+	url = git@github.com:sciunto-org/python-bibtexparser.git
+[submodule "python/scrapy"]
+	path = python/scrapy
+	url = git@github.com:scrapy/scrapy.git
+[submodule "misc/mastodon-lists"]
+	path = misc/mastodon-lists
+	url = git@github.com:seanthegeek/mastodon-lists.git
+[submodule "data/police-killings"]
+	path = data/police-killings
+	url = git@github.com:seattletimes/police-killings.git
+[submodule "python/xmlschema"]
+	path = python/xmlschema
+	url = git@github.com:sissaschool/xmlschema.git
+[submodule "games/DGDL"]
+	path = games/DGDL
+	url = git@github.com:siwells/DGDL.git
+[submodule "python/snakemake"]
+	path = python/snakemake
+	url = git@github.com:snakemake/snakemake.git
+[submodule "games/spacestation13"]
+	path = games/spacestation13
+	url = git@github.com:spacestation13/SS13-Codebases.git
+[submodule "python/sphinx"]
+	path = python/sphinx
+	url = git@github.com:sphinx-doc/sphinx.git
+[submodule "python/sphinx-themes"]
+	path = python/sphinx-themes
+	url = git@github.com:sphinx-themes/sphinx-themes.org.git
+[submodule "python/luigi"]
+	path = python/luigi
+	url = git@github.com:spotify/luigi.git
+[submodule "games/40ksim"]
+	path = games/40ksim
+	url = git@github.com:stassa/wh40ksim.git
+[submodule "ai/encounter-editor-1.01"]
+	path = ai/encounter-editor-1.01
+	url = git@github.com:storytron/encounter-editor-1.01.git
+[submodule "games/gossip"]
+	path = games/gossip
+	url = git@github.com:storytron/game-gossip-java.git
+[submodule "ai/storytron-authors-guide"]
+	path = ai/storytron-authors-guide
+	url = git@github.com:storytron/storytron-1-authors-guide.git
+[submodule "ai/storytron-tutorial"]
+	path = ai/storytron-tutorial
+	url = git@github.com:storytron/storytron-1-tutorial.git
+[submodule "ai/storyworlds"]
+	path = ai/storyworlds
+	url = git@github.com:storytron/storyworlds.git
+[submodule "ai/storytron-swat"]
+	path = ai/storytron-swat
+	url = git@github.com:storytron/swat.git
+[submodule "ai/post-sharp"]
+	path = ai/post-sharp
+	url = git@github.com:suegy/posh-sharp.git
+[submodule "haskell/extensible-effects"]
+	path = haskell/extensible-effects
+	url = git@github.com:suhailshergill/extensible-effects.git
+[submodule "music/supercollider"]
+	path = music/supercollider
+	url = git@github.com:supercollider/supercollider.git
+[submodule "lisp/spacemacs"]
+	path = lisp/spacemacs
+	url = git@github.com:syl20bnr/spacemacs.git
+[submodule "python/colorama"]
+	path = python/colorama
+	url = git@github.com:tartley/colorama.git
+[submodule "python/xsdata-plantuml"]
+	path = python/xsdata-plantuml
+	url = git@github.com:tefra/xsdata-plantuml.git
+[submodule "python/xsdata"]
+	path = python/xsdata
+	url = git@github.com:tefra/xsdata.git
+[submodule "games/tgstation"]
+	path = games/tgstation
+	url = git@github.com:tgstation/tgstation.git
+[submodule "music/tidal"]
+	path = music/tidal
+	url = git@github.com:tidalcycles/Tidal.git
+[submodule "lisp/helm-bibtex"]
+	path = lisp/helm-bibtex
+	url = git@github.com:tmalsburg/helm-bibtex.git
+[submodule "python/pyrsistent"]
+	path = python/pyrsistent
+	url = git@github.com:tobgu/pyrsistent.git
+[submodule "python/twisted"]
+	path = python/twisted
+	url = git@github.com:twisted/twisted.git
+[submodule "python/transitions"]
+	path = python/transitions
+	url = git@github.com:tyarkoni/transitions.git
+[submodule "rust/emacs-module"]
+	path = rust/emacs-module
+	url = git@github.com:ubolonton/emacs-module-rs.git
+[submodule "awesomes/awesome-c-sharp"]
+	path = awesomes/awesome-c-sharp
+	url = git@github.com:uhub/awesome-c-sharp.git
+[submodule "awesomes/awesome-python2"]
+	path = awesomes/awesome-python2
+	url = git@github.com:uhub/awesome-python.git
+[submodule "awesomes/awesome-python"]
+	path = awesomes/awesome-python
+	url = git@github.com:vinta/awesome-python.git
+[submodule "lua/luadec"]
+	path = lua/luadec
+	url = git@github.com:viruscamp/luadec.git
+[submodule "godot/godot-tiled-importer"]
+	path = godot/godot-tiled-importer
+	url = git@github.com:vnen/godot-tiled-importer.git
+[submodule "data/data-police-shootings"]
+	path = data/data-police-shootings
+	url = git@github.com:washingtonpost/data-police-shootings.git
+[submodule "emacs/treebot"]
+	path = emacs/treebot
+	url = git@github.com:william42/treebot.git
+[submodule "java/xsd-gen"]
+	path = java/xsd-gen
+	url = git@github.com:wiztools/xsd-gen.git
+[submodule "lisp/game-of-life"]
+	path = lisp/game-of-life
+	url = git@github.com:woodrush/lisp-in-life.git
+[submodule "games/project-grabbed"]
+	path = games/project-grabbed
+	url = git@github.com:x1nixmzeng/project-grabbed.git
+[submodule "python/humanfriendly"]
+	path = python/humanfriendly
+	url = git@github.com:xolox/python-humanfriendly.git
+[submodule "python/githooks"]
+	path = python/githooks
+	url = git@github.com:ygpedroso/python-githooks.git
+[submodule "python/pyswip"]
+	path = python/pyswip
+	url = git@github.com:yuce/pyswip
+[submodule "misc/klonk"]
+	path = misc/klonk
+	url = git@github.com:zaboople/klonk.git
+[submodule "ai/NetLogo"]
+	path = ai/NetLogo
+	url = git@github.com:NetLogo/NetLogo.git
+[submodule "ai/eisbot"]
+	path = ai/eisbot
+	url = git@github.com:bgweber/eisbot
+[submodule "ai/interactive-lp"]
+	path = ai/interactive-lp
+	url = git@github.com:chrisamaphone/interactive-lp.git
+[submodule "ai/drools"]
+	path = ai/drools
+	url = git@github.com:kiegroup/drools.git
+[submodule "ai/encounter-editor"]
+	path = ai/encounter-editor
+	url = git@github.com:storytron/encounter-editor-3.11.git
