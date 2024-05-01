@@ -790,3 +790,18 @@
 [submodule "lisp/treebot"]
 	path = lisp/treebot
 	url = git@github.com:william42/treebot.git
+[submodule "games/ONI-mods"]
+	path = games/ONI-mods
+	url = git@github.com:Cairath/ONI-Mods.git
+[submodule "misc/pdf20examples"]
+	path = misc/pdf20examples
+	url = git@github.com:pdf-association/pdf20examples.git
+[submodule "misc/big-list-of-naughty-strings"]
+	path = misc/big-list-of-naughty-strings
+	url = git@github.com:minimaxir/big-list-of-naughty-strings.git
+[submodule "python/cpython"]
+	path = python/cpython
+	url = git@github.com:python/cpython.git
+[submodule "python/python-api-checklist"]
+	path = python/python-api-checklist
+	url = git@github.com:vintasoftware/python-api-checklist.git
