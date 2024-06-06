@@ -805,3 +805,12 @@
 [submodule "python/python-api-checklist"]
 	path = python/python-api-checklist
 	url = git@github.com:vintasoftware/python-api-checklist.git
+[submodule "csharp/dicom-server"]
+	path = csharp/dicom-server
+	url = git@github.com:microsoft/dicom-server.git
+[submodule "shaders/ShaderTutorials"]
+	path = shaders/ShaderTutorials
+	url = git@github.com:Xibanya/ShaderTutorials.git
+[submodule "csharp/langspec"]
+	path = csharp/langspec
+	url = git@github.com:dotnet/csharplang.git
