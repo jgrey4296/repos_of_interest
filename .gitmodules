@@ -814,3 +814,15 @@
 [submodule "csharp/langspec"]
 	path = csharp/langspec
 	url = git@github.com:dotnet/csharplang.git
+[submodule "python/cwltool"]
+	path = python/cwltool
+	url = git@github.com:common-workflow-language/cwltool.git
+[submodule "governance/cwl"]
+	path = governance/cwl
+	url = git@github.com:common-workflow-language/governance.git
+[submodule "ai/jacamo-docs"]
+	path = ai/jacamo-docs
+	url = https://github.com/jacamo-lang/documentation.git
+[submodule "csharp/ilspy"]
+	path = csharp/ilspy
+	url = https://github.com/icsharpcode/ILSpy.git
