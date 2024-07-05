@@ -826,3 +826,6 @@
 [submodule "csharp/ilspy"]
 	path = csharp/ilspy
 	url = https://github.com/icsharpcode/ILSpy.git
+[submodule "python/tree-sitter-python"]
+	path = python/tree-sitter-python
+	url = git@github.com:tree-sitter/tree-sitter-python.git
