@@ -829,3 +829,21 @@
 [submodule "python/tree-sitter-python"]
 	path = python/tree-sitter-python
 	url = git@github.com:tree-sitter/tree-sitter-python.git
+[submodule "themes/catppuccin"]
+	path = themes/catppuccin
+	url = git@github.com:catppuccin/catppuccin.git
+[submodule "games/switch_hactool"]
+	path = games/switch_hactool
+	url = git@github.com:SciresM/hactool.git
+[submodule "games/LAS-Randomizer"]
+	path = games/LAS-Randomizer
+	url = git@github.com:la-switch/LAS-Randomizer.git
+[submodule "games/LADXR"]
+	path = games/LADXR
+	url = git@github.com:daid/LADXR.git
+[submodule "python/coveragepy"]
+	path = python/coveragepy
+	url = git@github.com:nedbat/coveragepy.git
+[submodule "javascript/mapgen4"]
+	path = javascript/mapgen4
+	url = git@github.com:redblobgames/mapgen4.git
