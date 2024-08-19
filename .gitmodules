@@ -847,3 +847,6 @@
 [submodule "javascript/mapgen4"]
 	path = javascript/mapgen4
 	url = git@github.com:redblobgames/mapgen4.git
+[submodule "csharp/coroutine_ai"]
+	path = csharp/coroutine_ai
+	url = git@github.com:jeansimonet/Coroutines.git
