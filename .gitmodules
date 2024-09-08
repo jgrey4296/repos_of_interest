@@ -850,3 +850,9 @@
 [submodule "csharp/coroutine_ai"]
 	path = csharp/coroutine_ai
 	url = git@github.com:jeansimonet/Coroutines.git
+[submodule "rst/alabaster"]
+	path = rst/alabaster
+	url = git@github.com:sphinx-doc/alabaster.git
+[submodule "rst/read_the_docs_theme"]
+	path = rst/read_the_docs_theme
+	url = git@github.com:readthedocs/sphinx_rtd_theme.git
