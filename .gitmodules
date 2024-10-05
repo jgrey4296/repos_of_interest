@@ -856,3 +856,12 @@
 [submodule "rst/read_the_docs_theme"]
 	path = rst/read_the_docs_theme
 	url = git@github.com:readthedocs/sphinx_rtd_theme.git
+[submodule "rst/awesome-sphinxdoc"]
+	path = rst/awesome-sphinxdoc
+	url = git@github.com:yoloseem/awesome-sphinxdoc.git
+[submodule "ai/agent_torch"]
+	path = ai/agent_torch
+	url = https://github.com/AgentTorch/AgentTorch.git
+[submodule "python/scientific-python-lectures"]
+	path = python/scientific-python-lectures
+	url = https://github.com/scipy-lectures/scientific-python-lectures.git
