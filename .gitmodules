@@ -865,3 +865,21 @@
 [submodule "python/scientific-python-lectures"]
 	path = python/scientific-python-lectures
 	url = https://github.com/scipy-lectures/scientific-python-lectures.git
+[submodule "rst/sphinx-autoapi"]
+	path = rst/sphinx-autoapi
+	url = https://github.com/readthedocs/sphinx-autoapi.git
+[submodule "rst/read_the_docs_actions"]
+	path = rst/read_the_docs_actions
+	url = https://github.com/readthedocs/actions.git
+[submodule "python/docutils"]
+	path = python/docutils
+	url = git://repo.or.cz/docutils.git
+[submodule "python/pylatexenc"]
+	path = python/pylatexenc
+	url = https://github.com/phfaist/pylatexenc.git
+[submodule "gnu/coreutils"]
+	path = gnu/coreutils
+	url = git://git.sv.gnu.org/coreutils
+[submodule "rust/ripgrep"]
+	path = rust/ripgrep
+	url = git@github.com:BurntSushi/ripgrep.git
