@@ -883,3 +883,18 @@
 [submodule "rust/ripgrep"]
 	path = rust/ripgrep
 	url = git@github.com:BurntSushi/ripgrep.git
+[submodule "python/decorator"]
+	path = python/decorator
+	url = git@github.com:micheles/decorator.git
+[submodule "python/sphinx-autoapi"]
+	path = python/sphinx-autoapi
+	url = git@github.com:readthedocs/sphinx-autoapi.git
+[submodule "ai/aie-book"]
+	path = ai/aie-book
+	url = git@github.com:chiphuyen/aie-book.git
+[submodule "lisp/cask"]
+	path = lisp/cask
+	url = git@github.com:cask/cask.git
+[submodule "python/isort"]
+	path = python/isort
+	url = git@github.com:PyCQA/isort.git
