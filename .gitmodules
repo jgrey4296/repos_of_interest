@@ -898,3 +898,9 @@
 [submodule "python/isort"]
 	path = python/isort
 	url = git@github.com:PyCQA/isort.git
+[submodule "rust/polonius"]
+	path = rust/polonius
+	url = https://github.com/rust-lang/polonius
+[submodule "python/click"]
+	path = python/click
+	url = git@github.com:pallets/click.git
