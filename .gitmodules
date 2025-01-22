@@ -904,3 +904,12 @@
 [submodule "python/click"]
 	path = python/click
 	url = git@github.com:pallets/click.git
+[submodule "rust/exercises"]
+	path = rust/exercises
+	url = git@github.com:mainmatter/100-exercises-to-learn-rust.git
+[submodule "games/openmw"]
+	path = games/openmw
+	url = https://github.com/OpenMW/openmw
+[submodule "games/iesdp"]
+	path = games/iesdp
+	url = git@github.com:Gibberlings3/iesdp.git
