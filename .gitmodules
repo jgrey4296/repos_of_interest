@@ -913,3 +913,78 @@
 [submodule "games/iesdp"]
 	path = games/iesdp
 	url = git@github.com:Gibberlings3/iesdp.git
+[submodule "python/packt/The-Python-Workshop-Second-Edition"]
+	path = python/packt/The-Python-Workshop-Second-Edition
+	url = git@github.com:PacktPublishing/The-Python-Workshop-Second-Edition.git
+[submodule "python/packt/Python-Object-Oriented-Programming-5E"]
+	path = python/packt/Python-Object-Oriented-Programming-5E
+	url = git@github.com:PacktPublishing/Python-Object-Oriented-Programming-5E.git
+[submodule "python/packt/A-Handbook-of-Mathematical-Models-with-Python"]
+	path = python/packt/A-Handbook-of-Mathematical-Models-with-Python
+	url = git@github.com:PacktPublishing/A-Handbook-of-Mathematical-Models-with-Python.git
+[submodule "python/packt/Python-Data-Cleaning-and-Preparation-Best-Practices"]
+	path = python/packt/Python-Data-Cleaning-and-Preparation-Best-Practices
+	url = git@github.com:PacktPublishing/Python-Data-Cleaning-and-Preparation-Best-Practices.git
+[submodule "python/packt/Python-for-Algorithmic-Trading-Cookbook"]
+	path = python/packt/Python-for-Algorithmic-Trading-Cookbook
+	url = git@github.com:PacktPublishing/Python-for-Algorithmic-Trading-Cookbook.git
+[submodule "python/packt/Modern-Python-Cookbook-Third-Edition"]
+	path = python/packt/Modern-Python-Cookbook-Third-Edition
+	url = git@github.com:PacktPublishing/Modern-Python-Cookbook-Third-Edition.git
+[submodule "python/packt/Causal-Inference-and-Discovery-in-Python"]
+	path = python/packt/Causal-Inference-and-Discovery-in-Python
+	url = git@github.com:PacktPublishing/Causal-Inference-and-Discovery-in-Python.git
+[submodule "python/packt/Building-ETL-Pipelines-with-Python"]
+	path = python/packt/Building-ETL-Pipelines-with-Python
+	url = git@github.com:PacktPublishing/Building-ETL-Pipelines-with-Python.git
+[submodule "python/packt/Functional-Python-Programming-3rd-Edition"]
+	path = python/packt/Functional-Python-Programming-3rd-Edition
+	url = git@github.com:PacktPublishing/Functional-Python-Programming-3rd-Edition.git
+[submodule "python/packt/Python-GUI-Programming-with-Tkinter-2E"]
+	path = python/packt/Python-GUI-Programming-with-Tkinter-2E
+	url = git@github.com:PacktPublishing/Python-GUI-Programming-with-Tkinter-2E.git
+[submodule "python/packt/Modern-Graph-Theory-Algorithms-with-Python"]
+	path = python/packt/Modern-Graph-Theory-Algorithms-with-Python
+	url = git@github.com:PacktPublishing/Modern-Graph-Theory-Algorithms-with-Python.git
+[submodule "python/packt/Artificial-Intelligence-with-Python"]
+	path = python/packt/Artificial-Intelligence-with-Python
+	url = git@github.com:PacktPublishing/Artificial-Intelligence-with-Python.git
+[submodule "python/packt/Mastering-Python-Design-Patterns-Third-Edition"]
+	path = python/packt/Mastering-Python-Design-Patterns-Third-Edition
+	url = git@github.com:PacktPublishing/Mastering-Python-Design-Patterns-Third-Edition.git
+[submodule "python/packt/Clean-Code-in-Python"]
+	path = python/packt/Clean-Code-in-Python
+	url = git@github.com:PacktPublishing/Clean-Code-in-Python.git
+[submodule "python/packt/Artificial-Intelligence-with-Python-Third-Edition"]
+	path = python/packt/Artificial-Intelligence-with-Python-Third-Edition
+	url = git@github.com:PacktPublishing/Artificial-Intelligence-with-Python-Third-Edition.git
+[submodule "python/packt/Python-Scripting-in-Blender"]
+	path = python/packt/Python-Scripting-in-Blender
+	url = git@github.com:PacktPublishing/Python-Scripting-in-Blender.git
+[submodule "godot/packt/Game-Development-Patterns-with-Godot-4"]
+	path = godot/packt/Game-Development-Patterns-with-Godot-4
+	url = git@github.com:PacktPublishing/Game-Development-Patterns-with-Godot-4.git
+[submodule "erlang/packt/Mastering-Elixir"]
+	path = erlang/packt/Mastering-Elixir
+	url = git@github.com:PacktPublishing/Mastering-Elixir.git
+[submodule "rust/packt/Practical-Data-Structures-and-Algos-in-Rust"]
+	path = rust/packt/Practical-Data-Structures-and-Algos-in-Rust
+	url = git@github.com:PacktPublishing/Practical-Data-Structures-and-Algos-in-Rust.git
+[submodule "rust/packt/Design-Patterns-and-Best-Practices-in-Rust"]
+	path = rust/packt/Design-Patterns-and-Best-Practices-in-Rust
+	url = git@github.com:PacktPublishing/Design-Patterns-and-Best-Practices-in-Rust.git
+[submodule "rust/packt/Rust-Programming-Recipies"]
+	path = rust/packt/Rust-Programming-Recipies
+	url = git@github.com:PacktPublishing/Rust-Programming-Recipies.git
+[submodule "rust/packt/Rust-Standard-Library-Cookbook"]
+	path = rust/packt/Rust-Standard-Library-Cookbook
+	url = git@github.com:PacktPublishing/Rust-Standard-Library-Cookbook.git
+[submodule "rust/packt/Rust-Essentials-Second-Edition"]
+	path = rust/packt/Rust-Essentials-Second-Edition
+	url = git@github.com:PacktPublishing/Rust-Essentials-Second-Edition.git
+[submodule "rust/packt/Mastering-Rust"]
+	path = rust/packt/Mastering-Rust
+	url = git@github.com:PacktPublishing/Mastering-Rust.git
+[submodule "rust/packt/Rust-Cookbook"]
+	path = rust/packt/Rust-Cookbook
+	url = git@github.com:PacktPublishing/Rust-Cookbook.git
