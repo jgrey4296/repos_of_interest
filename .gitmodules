@@ -988,3 +988,9 @@
 [submodule "rust/packt/Rust-Cookbook"]
 	path = rust/packt/Rust-Cookbook
 	url = git@github.com:PacktPublishing/Rust-Cookbook.git
+[submodule "prolog/wumpus-prolog"]
+	path = prolog/wumpus-prolog
+	url = git@github.com:rlegendi/wumpus-prolog.git
+[submodule "prolog/swipl"]
+	path = prolog/swipl
+	url = git@github.com:SWI-Prolog/swipl.git
