@@ -994,3 +994,30 @@
 [submodule "prolog/swipl"]
 	path = prolog/swipl
 	url = git@github.com:SWI-Prolog/swipl.git
+[submodule "python/pytest"]
+	path = python/pytest
+	url = git@github.com:pytest-dev/pytest.git
+[submodule "misc/LLM-engineer-handbook"]
+	path = misc/LLM-engineer-handbook
+	url = git@github.com:SylphAI-Inc/LLM-engineer-handbook.git
+[submodule "games/CnC_Red_Alert"]
+	path = games/CnC_Red_Alert
+	url = git@github.com:electronicarts/CnC_Red_Alert.git
+[submodule "games/CnC_Tiberian_Dawn"]
+	path = games/CnC_Tiberian_Dawn
+	url = git@github.com:electronicarts/CnC_Tiberian_Dawn.git
+[submodule "games/CnC_Generals_Zero_Hour"]
+	path = games/CnC_Generals_Zero_Hour
+	url = git@github.com:electronicarts/CnC_Generals_Zero_Hour.git
+[submodule "games/CnC_Renegade"]
+	path = games/CnC_Renegade
+	url = git@github.com:electronicarts/CnC_Renegade.git
+[submodule "games/EABase"]
+	path = games/EABase
+	url = git@github.com:electronicarts/EABase.git
+[submodule "python/zope.interface"]
+	path = python/zope.interface
+	url = git@github.com:zopefoundation/zope.interface.git
+[submodule "python/automat"]
+	path = python/automat
+	url = git@github.com:glyph/automat.git
