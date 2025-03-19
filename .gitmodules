@@ -1021,3 +1021,9 @@
 [submodule "python/automat"]
 	path = python/automat
 	url = git@github.com:glyph/automat.git
+[submodule "haskell/exclusion_logic"]
+	path = haskell/exclusion_logic
+	url = git@github.com:jcc333/flc.git
+[submodule "rust/rell"]
+	path = rust/rell
+	url = git@github.com:sysnet-ai/rell.git
