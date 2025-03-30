@@ -1027,3 +1027,9 @@
 [submodule "rust/rell"]
 	path = rust/rell
 	url = git@github.com:sysnet-ai/rell.git
+[submodule "coq/sequent-calculus"]
+	path = coq/sequent-calculus
+	url = git@github.com:dschepler/coq-sequent-calculus.git
+[submodule "ai/mml-book"]
+	path = ai/mml-book
+	url = git@github.com:mml-book/mml-book.github.io.git
