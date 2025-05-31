@@ -1033,3 +1033,18 @@
 [submodule "ai/mml-book"]
 	path = ai/mml-book
 	url = git@github.com:mml-book/mml-book.github.io.git
+[submodule "misc/siyuan"]
+	path = misc/siyuan
+	url = https://github.com/siyuan-note/siyuan
+[submodule "python/setuptools"]
+	path = python/setuptools
+	url = https://github.com/pypa/setuptools.git
+[submodule "games/OpenXcom"]
+	path = games/OpenXcom
+	url = git@github.com:OpenXcom/OpenXcom.git
+[submodule "games/adventure"]
+	path = games/adventure
+	url = git@github.com:wh0am1-dev/adventure.git
+[submodule "python/useful_types"]
+	path = python/useful_types
+	url = git@github.com:hauntsaninja/useful_types.git
