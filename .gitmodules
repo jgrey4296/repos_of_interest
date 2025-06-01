@@ -61,9 +61,6 @@
 [submodule "godot/godot-procedural-generation"]
 	path = godot/godot-procedural-generation
 	url = git@github.com:GDQuest/godot-procedural-generation.git
-[submodule "godot/godot-shaders"]
-	path = godot/godot-shaders
-	url = git@github.com:GDQuest/godot-shaders.git
 [submodule "godot/godot-steering-ai-framework"]
 	path = godot/godot-steering-ai-framework
 	url = git@github.com:GDQuest/godot-steering-ai-framework.git
@@ -337,9 +334,6 @@
 [submodule "games/Sims4"]
 	path = games/Sims4
 	url = git@github.com:gibbed/Gibbed.Sims4.git
-[submodule "godot/godot-next"]
-	path = godot/godot-next
-	url = git@github.com:godot-extended-libraries/godot-next.git
 [submodule "godot/gdnative"]
 	path = godot/gdnative
 	url = git@github.com:godot-rust/gdnative.git
@@ -1048,3 +1042,27 @@
 [submodule "python/useful_types"]
 	path = python/useful_types
 	url = git@github.com:hauntsaninja/useful_types.git
+[submodule "godot/shaders"]
+	path = godot/shaders
+	url = git@github.com:gdquest-demos/godot-shaders.git
+[submodule "godot/kenny-Starter-Kit-3D-Platformer"]
+	path = godot/kenny-Starter-Kit-3D-Platformer
+	url = git@github.com:KenneyNL/Starter-Kit-3D-Platformer.git
+[submodule "godot/GodotOS"]
+	path = godot/GodotOS
+	url = https://github.com/popcar2/GodotOS
+[submodule "godot/demo-projects"]
+	path = godot/demo-projects
+	url = git@github.com:godotengine/godot-demo-projects.git
+[submodule "godot/next"]
+	path = godot/next
+	url = git@github.com:godot-extended-libraries/godot-next.git
+[submodule "godot/dialogic"]
+	path = godot/dialogic
+	url = git@github.com:dialogic-godot/dialogic.git
+[submodule "godot/dialogue_manager"]
+	path = godot/dialogue_manager
+	url = git@github.com:nathanhoad/godot_dialogue_manager.git
+[submodule "godot/beehave"]
+	path = godot/beehave
+	url = git@github.com:bitbrain/beehave.git
