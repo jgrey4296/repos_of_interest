@@ -1066,3 +1066,21 @@
 [submodule "godot/beehave"]
 	path = godot/beehave
 	url = git@github.com:bitbrain/beehave.git
+[submodule "python/mypy-zope"]
+	path = python/mypy-zope
+	url = git@github.com:Shoobx/mypy-zope.git
+[submodule "python/statemachine"]
+	path = python/statemachine
+	url = git@github.com:fgmacedo/python-statemachine.git
+[submodule "godot/Godot-PSX"]
+	path = godot/Godot-PSX
+	url = https://github.com/GarrettGunnell/Godot-PSX
+[submodule "games/shuttle-tools"]
+	path = games/shuttle-tools
+	url = https://github.com/yuv422/shuttle-tools
+[submodule "python/tox"]
+	path = python/tox
+	url = git@github.com:tox-dev/tox.git
+[submodule "python/jinja"]
+	path = python/jinja
+	url = git@github.com:pallets/jinja.git
