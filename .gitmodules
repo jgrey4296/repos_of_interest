@@ -1084,3 +1084,6 @@
 [submodule "python/jinja"]
 	path = python/jinja
 	url = git@github.com:pallets/jinja.git
+[submodule "yaml/github_action_starters"]
+	path = yaml/github_action_starters
+	url = git@github.com:actions/starter-workflows.git
