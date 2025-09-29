@@ -1087,3 +1087,12 @@
 [submodule "yaml/github_action_starters"]
 	path = yaml/github_action_starters
 	url = git@github.com:actions/starter-workflows.git
+[submodule "python/pre-commit"]
+	path = python/pre-commit
+	url = git@github.com:pre-commit/pre-commit.git
+[submodule "python/blender_leader_key"]
+	path = python/blender_leader_key
+	url = git@github.com:xinove1/blender_leader_key.git
+[submodule "misc/asdf-plugin-template"]
+	path = misc/asdf-plugin-template
+	url = git@github.com:asdf-vm/asdf-plugin-template.git
