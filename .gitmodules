@@ -1096,3 +1096,9 @@
 [submodule "misc/asdf-plugin-template"]
 	path = misc/asdf-plugin-template
 	url = git@github.com:asdf-vm/asdf-plugin-template.git
+[submodule "ai/potassco_guide"]
+	path = ai/potassco_guide
+	url = git@github.com:potassco/guide.git
+[submodule "treesit/tree-sitter-clingo"]
+	path = treesit/tree-sitter-clingo
+	url = git@github.com:potassco/tree-sitter-clingo.git
