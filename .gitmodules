@@ -1102,3 +1102,15 @@
 [submodule "treesit/tree-sitter-clingo"]
 	path = treesit/tree-sitter-clingo
 	url = git@github.com:potassco/tree-sitter-clingo.git
+[submodule "godot/shaders-godot"]
+	path = godot/shaders-godot
+	url = git@github.com:daniel-ilett/shaders-godot.git
+[submodule "music/scel"]
+	path = music/scel
+	url = git@github.com:supercollider/scel.git
+[submodule "music/sclang-extensions"]
+	path = music/sclang-extensions
+	url = git@github.com:chrisbarrett/sclang-extensions.git
+[submodule "music/scbookcode"]
+	path = music/scbookcode
+	url = git@github.com:supercollider/scbookcode.git
