@@ -1114,3 +1114,6 @@
 [submodule "music/scbookcode"]
 	path = music/scbookcode
 	url = git@github.com:supercollider/scbookcode.git
+[submodule "ai/sarl"]
+	path = ai/sarl
+	url = git@github.com:sarl/sarl.git
